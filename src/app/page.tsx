@@ -13,10 +13,12 @@ const Home = () => {
 
   return (
     <div>
-      <h1>{data.length} Cars Listed</h1>
+      <h1 className='my-4 text-2xl font-bold italic'>{data.length} Cars Listed</h1>
       {
         data.map(((car) => (
-          <ProductListItem key={car.id} car={car} />
+          <div key={car.id} className='mb-6'>
+            <ProductListItem car={car} />
+          </div>
         )
         ))
       }

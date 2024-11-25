@@ -10,9 +10,9 @@ const WishlistCounter = () => {
 	const shouldShowCount = wishlistCount > 0;
 
 	return (
-		<div>
+		<div className='relative'>
 			<HeartIcon />
-			<span>
+			<span className='absolute -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 text-xs'>
 				{shouldShowCount && wishlistCount}
 			</span>
 		</div>

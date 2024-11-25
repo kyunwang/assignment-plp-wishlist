@@ -5,7 +5,7 @@ export const GET = async (request: NextRequest) => {
 	const searchParams = request.nextUrl.searchParams;
 	const ids = searchParams.get('ids');
 
-	if (!ids) return;
+	if (!ids) return new Response('[]');
 
 	const idsArray = ids.split(',');
 	const filteredCars = cars.filter((car) => idsArray.includes(car.id));
