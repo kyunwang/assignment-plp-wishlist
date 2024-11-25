@@ -1,0 +1,242 @@
+[
+    {
+        "id": "89b6dfac-ba63-4a7a-bd10-e60bb5aebe33",
+        "title": "Mazda CX5",
+        "year": 2001,
+        "price": 1500,
+        "kilometers": 341895,
+        "dealer": "Breda Cars",
+        "location": "Eindhoven",
+        "image": "image1.png"
+    },
+    {
+        "id": "9f46e190-c8ee-4bf8-bad3-052d1916b3fd",
+        "title": "BMW 3 Series",
+        "year": 2016,
+        "price": 1500,
+        "kilometers": 99376,
+        "dealer": "Utrecht Cars",
+        "location": "Rotterdam",
+        "image": "image2.png"
+    },
+    {
+        "id": "17d302fe-ca67-4b71-8672-71f017256388",
+        "title": "Fiat 500",
+        "year": 2000,
+        "price": 3350,
+        "kilometers": 411240,
+        "dealer": "Maastricht Cars",
+        "location": "Almere",
+        "image": "image3.png"
+    },
+    {
+        "id": "9096abbc-e1e6-4f05-b887-9f5a6ff8d311",
+        "title": "Peugeot 208",
+        "year": 2020,
+        "price": 12790,
+        "kilometers": 66112,
+        "dealer": "Maastricht Cars",
+        "location": "Rotterdam",
+        "image": "image4.png"
+    },
+    {
+        "id": "793d0424-abbf-4d68-8766-1b4e8a0f1b05",
+        "title": "Mercedes A-Class",
+        "year": 2009,
+        "price": 11907,
+        "kilometers": 220425,
+        "dealer": "Middelburg Cars",
+        "location": "Weesp",
+        "image": "image5.png"
+    },
+    {
+        "id": "9c77bc67-5826-4148-9aac-64a65733b132",
+        "title": "Ford Escape",
+        "year": 2005,
+        "price": 4182,
+        "kilometers": 312322,
+        "dealer": "Weesp Cars",
+        "location": "Breda",
+        "image": "image6.png"
+    },
+    {
+        "id": "4fa06d55-4ec2-4018-a304-55aab89c1d6d",
+        "title": "VW Golf",
+        "year": 2003,
+        "price": 1500,
+        "kilometers": 351750,
+        "dealer": "Utrecht Cars",
+        "location": "Amsterdam",
+        "image": "image7.png"
+    },
+    {
+        "id": "c4013e64-ecd3-469c-aa33-b3f7deaceca6",
+        "title": "Chevrolet Spark",
+        "year": 2019,
+        "price": 5790,
+        "kilometers": 80975,
+        "dealer": "Maastricht Cars",
+        "location": "Breda",
+        "image": "image8.png"
+    },
+    {
+        "id": "e34c4404-52a0-488a-972b-39f7af58a9ca",
+        "title": "Ford Escape",
+        "year": 2018,
+        "price": 1500,
+        "kilometers": 84714,
+        "dealer": "Den Haag Cars",
+        "location": "Haarlem",
+        "image": "image9.png"
+    },
+    {
+        "id": "02ba2907-e15c-4d72-b055-94d1eeb2ed2e",
+        "title": "Lexus IS",
+        "year": 2010,
+        "price": 9209,
+        "kilometers": 172844,
+        "dealer": "Arnhem Cars",
+        "location": "Eindhoven",
+        "image": "image10.png"
+    },
+    {
+        "id": "3f3f8306-c8c4-4814-8b4c-7bd0d21bc014",
+        "title": "Honda Civic",
+        "year": 2011,
+        "price": 1500,
+        "kilometers": 219544,
+        "dealer": "Groningen Cars",
+        "location": "Haarlem",
+        "image": "image11.png"
+    },
+    {
+        "id": "44784c71-9e77-4474-ac00-c709fa9e05dc",
+        "title": "Mitsubishi Outlander",
+        "year": 2014,
+        "price": 10760,
+        "kilometers": 127720,
+        "dealer": "Weesp Cars",
+        "location": "Zwolle",
+        "image": "image12.png"
+    },
+    {
+        "id": "26800825-13e8-4670-875c-54fdb06f8b19",
+        "title": "Toyota Yaris",
+        "year": 2016,
+        "price": 16130,
+        "kilometers": 97896,
+        "dealer": "Middelburg Cars",
+        "location": "Tilburg",
+        "image": "image13.png"
+    },
+    {
+        "id": "d37e0426-50b2-45df-a4f0-09ffcba433be",
+        "title": "Skoda Octavia",
+        "year": 2001,
+        "price": 1500,
+        "kilometers": 407744,
+        "dealer": "Eindhoven Cars",
+        "location": "Zwolle",
+        "image": "image14.png"
+    },
+    {
+        "id": "e9897764-71ef-41d0-a3a5-2b5b87457b69",
+        "title": "Volvo XC60",
+        "year": 2016,
+        "price": 4437,
+        "kilometers": 123624,
+        "dealer": "Eindhoven Cars",
+        "location": "Weesp",
+        "image": "image15.png"
+    },
+    {
+        "id": "df3bcd9c-8ef9-454e-b17d-bd86c594b27f",
+        "title": "Skoda Octavia",
+        "year": 2020,
+        "price": 13164,
+        "kilometers": 60996,
+        "dealer": "Middelburg Cars",
+        "location": "Amsterdam",
+        "image": "image16.png"
+    },
+    {
+        "id": "2051f357-f57a-4f97-9bed-c158fcf64b56",
+        "title": "Toyota Yaris",
+        "year": 2013,
+        "price": 14190,
+        "kilometers": 184294,
+        "dealer": "Weesp Cars",
+        "location": "Haarlem",
+        "image": "image17.png"
+    },
+    {
+        "id": "5e36bb70-8e61-4b93-ad99-8f177276b8d5",
+        "title": "Tesla Model 3",
+        "year": 2018,
+        "price": 24450,
+        "kilometers": 89880,
+        "dealer": "Weesp Cars",
+        "location": "Zwolle",
+        "image": "image18.png"
+    },
+    {
+        "id": "96d1a1e5-a0b7-493d-9471-d532308930ee",
+        "title": "Peugeot 208",
+        "year": 2011,
+        "price": 20523,
+        "kilometers": 204360,
+        "dealer": "Middelburg Cars",
+        "location": "Arnhem",
+        "image": "image19.png"
+    },
+    {
+        "id": "d29fad5b-ac9a-42b9-b62a-4a97bb77343f",
+        "title": "Lexus IS",
+        "year": 1999,
+        "price": 1500,
+        "kilometers": 398225,
+        "dealer": "Utrecht Cars",
+        "location": "Haarlem",
+        "image": "image20.png"
+    },
+    {
+        "id": "b4aaacfd-ac5a-446a-b407-51597350eacb",
+        "title": "Hyundai",
+        "year": 2020,
+        "price": 15128,
+        "kilometers": 64768,
+        "dealer": "Groningen Cars",
+        "location": "Haarlem",
+        "image": "image21.png"
+    },
+    {
+        "id": "6ec76752-b9d4-42e6-809d-5f8cd5248021",
+        "title": "Nissan Qashqai",
+        "year": 2019,
+        "price": 23030,
+        "kilometers": 69675,
+        "dealer": "Arnhem Cars",
+        "location": "Almere",
+        "image": "image22.png"
+    },
+    {
+        "id": "db01fd2d-3b38-421d-a9e4-b08070a8beb6",
+        "title": "Honda Civic",
+        "year": 2001,
+        "price": 5524,
+        "kilometers": 294837,
+        "dealer": "Weesp Cars",
+        "location": "Eindhoven",
+        "image": "image23.png"
+    },
+    {
+        "id": "ee453a34-eb4a-47ad-9a4e-c41f4be78a59",
+        "title": "Subaru Impreza",
+        "year": 2009,
+        "price": 20084,
+        "kilometers": 222405,
+        "dealer": "Eindhoven Cars",
+        "location": "Zwolle",
+        "image": "image24.png"
+    }
+]
