@@ -30,7 +30,7 @@ const RootLayout = ({
     <body
       className={`${geistSans.variable} ${geistMono.variable} antialiased`}
     >
-      <header className="container md:mx-auto p-4">
+      <header className="sticky top-0 container md:mx-auto p-4">
         <nav
           className="flex"
         >
