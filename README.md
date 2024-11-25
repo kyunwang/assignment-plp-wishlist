@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Assignment (Cars) PLP & Wishlist
+Deze repo bevat de opdracht PLP & Wishlist met autos als onderwerp. Vereist was het gebruik van Next.js, Typescript en TailwindCSS met een tijdslimiet van 2.5 uur. Na de tijdslimiet is na wat clean-up, de code niet meer aangepast.
 
-## Getting Started
+- [Getting Started](#getting-started)
 
-First, run the development server:
+## Links
+Hier zijn de links naar de live versie van na 2.5 uur en de figma design mockup.
+
+- [Live Versie](https://assignment-cars-plp-wishlist.vercel.app/)
+- [Figma Design Mockup](https://www.figma.com/design/zsYsl6kT42esHHt8eo5LjG/Assignment-(Cars)-PLP-%26-Wishlist---Mock-up?node-id=0-1&node-type=canvas)
+
+
+## Lokaal opstarten
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Huidige staat
+In de huidige staat is er een PLP pagina met een lijst van autos. Deze autos kunnen toegevoegd worden aan de wishlist. De wishlist is opgeslagen in localstorage. Op de wishlist pagina kunnen de autos ook verwijderd worden.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Binnen de tijdslimiet was ik niet toegekomen om de applicatie te stijlen. Zie Figma link voor de intentie.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**Status**
+- PLP pagina met een lijst van autos
+- Mogelijk om autos toe te voegen aan de wishlist
+- Aantal wishlist items is zichtbaar in de header
+- Een wishlist pagina met een lijst van autos in de wishlist die verwijderbaar zijn
+- Wishlist items zijn opgeslagen in localstorage
+- Een mock JSON bestand met autos (Gegenereed met een Python script) met mock API endpoints
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Assets
+- Photo by Hyundai Motor Group  : https://www.pexels.com/photo/a-car-in-a-garage-21431027/
+- Photo by Maria Tyutina: https://www.pexels.com/photo/yellow-retro-car-parked-outside-old-building-5596127/
+- Icons from https://heroicons.com/
+- Logo from https://logoipsum.com/artwork/291
