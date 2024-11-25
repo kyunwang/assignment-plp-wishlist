@@ -1,11 +1,12 @@
 'use client';
 import ProductListItem from '@/components/ProductListItem';
 import useSWR from 'swr';
+import { Car } from './types';
 
 const fetcher = (endpoint: string) => fetch(endpoint).then(res => res.json());
 
 const Home = () => {
-  const { data, error, isLoading } = useSWR(`/api`, fetcher);
+  const { data, error, isLoading } = useSWR<Car[]>(`/api`, fetcher);
 
   if (isLoading) return ("is loading");
   if (error) return ("error");

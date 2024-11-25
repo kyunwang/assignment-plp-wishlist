@@ -6,7 +6,7 @@ Deze repo bevat de opdracht PLP & Wishlist met autos als onderwerp. Vereist was 
 ## Links
 Hier zijn de links naar de live versie van na 2.5 uur en de figma design mockup.
 
-- [Live Versie](https://assignment-cars-plp-wishlist.vercel.app/)
+- [Live Versie](https://assignment-plp-wishlist.vercel.app/)
 - [Figma Design Mockup](https://www.figma.com/design/zsYsl6kT42esHHt8eo5LjG/Assignment-(Cars)-PLP-%26-Wishlist---Mock-up?node-id=0-1&node-type=canvas)
 
 
